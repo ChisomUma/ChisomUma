@@ -21,17 +21,17 @@
 
 ## 👤 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com)](https://www.linkedin.com/in/chisom-uma-36187a236/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com)
 
 ## 🛠️ Technical Writing Tools
 
 | **Name**              | **Badges**                                                                                                           |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Tools & Platforms** | ![Docusaurus](https://img.shields.io/badge/Docusaurus-blue) ![Hugo](https://img.shields.io/badge/Hugo-pink) ![README](https://img.shields.io/badge/README-green) ![MkDocs](https://img.shields.io/badge/MkDocs-blue) ![Docsify](https://img.shields.io/badge/Docsify-green) ![Swagger](https://img.shields.io/badge/Swagger-brightgreen) ![Postman](https://img.shields.io/badge/Postman-orange) ![VuePress](https://img.shields.io/badge/VuePress-green) ![Astro](https://img.shields.io/badge/Astro-black) |
-| **Technologies**      | ![YAML](https://img.shields.io/badge/YAML-blue) ![JSON](https://img.shields.io/badge/JSON-orange) ![Markdown](https://img.shields.io/badge/Markdown-lightgrey) ![HTML](https://img.shields.io/badge/HTML-orange) ![AsciiDoc](https://img.shields.io/badge/AsciiDoc-red)                                |
-| **Cloud & CI/CD**     | ![AWS](https://img.shields.io/badge/AWS-orange) ![GitHub](https://img.shields.io/badge/GitHub-black) ![GitLab](https://img.shields.io/badge/GitLab-orange) ![Docker](https://img.shields.io/badge/Docker-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)                                |
-| **Documentation Domains** | ![Developer Documentation](https://img.shields.io/badge/Developer%20Documentation-black) ![API Documentation](https://img.shields.io/badge/API%20Documentation-orange) ![Open Source](https://img.shields.io/badge/Open%20Source-blue) ![Version Control](https://img.shields.io/badge/Version%20Control-red) |
+| **Tools & Platforms** | ![Docusaurus](https://img.shields.io/badge/Docusaurus-blue) ![README](https://img.shields.io/badge/README-green) ![MkDocs](https://img.shields.io/badge/MkDocs-blue) ![Swagger](https://img.shields.io/badge/Swagger-brightgreen) ![Postman](https://img.shields.io/badge/Postman-orange) ![VuePress](https://img.shields.io/badge/VuePress-green) ![Astro](https://img.shields.io/badge/Astro-black) |
+| **Technologies**      | ![YAML](https://img.shields.io/badge/YAML-blue) ![JSON](https://img.shields.io/badge/JSON-orange) ![Markdown](https://img.shields.io/badge/Markdown-lightgrey) ![HTML](https://img.shields.io/badge/HTML-orange)                               |
+|
+
 
 
 <h3 align="left">Connect with me:</h3>
