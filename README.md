@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love music, I make music, and I love movies :)**
 
-## 👤 Connect with me
+## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chisom-uma-36187a236/)
 
@@ -30,7 +30,7 @@
 |-----------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Tools & Platforms** | ![Docusaurus](https://img.shields.io/badge/Docusaurus-blue) ![README](https://img.shields.io/badge/README-green) ![MkDocs](https://img.shields.io/badge/MkDocs-blue) ![Swagger](https://img.shields.io/badge/Swagger-brightgreen) ![Postman](https://img.shields.io/badge/Postman-orange) ![VuePress](https://img.shields.io/badge/VuePress-green) ![Astro](https://img.shields.io/badge/Astro-black) |
 | **Technologies**      | ![YAML](https://img.shields.io/badge/YAML-blue) ![JSON](https://img.shields.io/badge/JSON-orange) ![Markdown](https://img.shields.io/badge/Markdown-lightgrey) ![HTML](https://img.shields.io/badge/HTML-orange)                               |
-|
+
 
 
 
