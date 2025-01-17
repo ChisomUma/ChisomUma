@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chisom Uma</h1>
-<h3 align="center">Experienced Technical Writer with expertise in creating software product and end-user documentation, including API & Developer docs. I'm passionate about public speaking, open-source, and explaining complex problems into simple, actionable steps and procedures.</h3>
+<h3 align="center">Experienced Technical Writer with expertise in creating software product and end-user documentation, including API & Developer docs, software documentation, FAQs, release notes, and more. I'm passionate about public speaking, open-source, and explaining complex problems into simple, actionable steps and procedures. Contact me if you need help with your documentation projects :) </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chisomuma" alt="chisomuma" /></a> </p>
 
