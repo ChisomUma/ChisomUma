@@ -21,8 +21,8 @@
 
 ## 👤 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com)](https://www.linkedin.com/in/chisom-uma-36187a236/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chisom-uma-36187a236/)
+
 
 ## 🛠️ Technical Writing Tools
 
