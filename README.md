@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloud Engineering, Python, and API Documentation**
 
-- 🌱 I’m currently learning **DITA XML**
+- 🌱 I’m currently learning **cloud Engineering**
 
 - 👯 I’m looking to collaborate on **open-source communities**
 
